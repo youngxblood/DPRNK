@@ -30,8 +30,8 @@ public class BallotManager {
     }
     public String reportResults()
     {
-        findWinner();
-        return drawGraph();
+        String cat;
+
     }
 
 }
