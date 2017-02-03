@@ -28,4 +28,13 @@ public class BallotManager {
             candidate3.incrementVoteCount();
 
     }
+
+    public String reportResults()
+    {
+        String cat;
+
+    }
+
+
+
 }
