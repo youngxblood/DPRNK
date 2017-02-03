@@ -1,0 +1,16 @@
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Main.java	(revision )
++++ src/Main.java	(revision )
+@@ -18,7 +18,7 @@
+                 while(ageChecker = true) {
+ 
+                         ageAsString = sc.next();
+-                        if(ageAsString.matches("\\d+") {
++                        if(ageAsString.matches("\\d+")) {
+                             System.out.println("Very good.");
+                             ageChecker = false;
+                             break;
